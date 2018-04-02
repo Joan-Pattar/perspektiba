@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* used template : https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1
